@@ -1,7 +1,7 @@
 {
   "name": "sudu-project",
   "version": "1.0.0",
-  "description": "СУДУ студенческий портал",
+  "description": "Cvpy студенческий портал",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
